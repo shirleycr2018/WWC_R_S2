@@ -8,3 +8,4 @@ https://conceptosclaros.com/introduccion-programacion-r/
 https://towardsdatascience.com/how-to-use-r-in-google-colab-b6e02d736497
 https://bookdown.org/jboscomendoza/r-principiantes4/quien-usa-r.html
 https://www.statology.org/how-to-normalize-data-in-r/
+https://statologos.com/como-normalizar-los-datos-en-r/
