@@ -41,8 +41,6 @@ mtcars[3,] # Elige una observación
 
 mtcars[1:10,] # Elige varias observaciones
 
-
-
 #----------------------------------------#
 # Valores Nulos : Deteccion y Manejo
 #----------------------------------------#
@@ -103,5 +101,4 @@ iris_standardize <- as.data.frame(scale(iris[1:4]))
 #vemos las primeras 6 filas de Iris_standarize
 head(iris_standardize)
 
-hist(iris$Sepal.Width)
 
