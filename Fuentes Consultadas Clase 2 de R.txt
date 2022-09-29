@@ -1,0 +1,10 @@
+
+https://cran.r-project.org/doc/manuals/r-release/R-intro.pdf
+https://cran.r-project.org/doc/manuals/r-release/R-admin.pdf
+https://cran.r-project.org/doc/manuals/r-release/R-lang.pdf
+
+https://datanalytics.com/libro_r/programacion-en-r.html
+https://conceptosclaros.com/introduccion-programacion-r/
+https://towardsdatascience.com/how-to-use-r-in-google-colab-b6e02d736497
+https://bookdown.org/jboscomendoza/r-principiantes4/quien-usa-r.html
+https://www.statology.org/how-to-normalize-data-in-r/
